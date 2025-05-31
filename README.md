@@ -34,4 +34,14 @@ You can clone this repository and run the chatbot locally if you have GPU access
 ```bash
 git clone https://github.com/your-username/emotional-support-chatbot.git
 cd emotional-support-chatbot
-hatbot
+chatbot
+
+### 2. Install dependencies
+```bash
+pip install -r requirements.txt
+
+### 3. Run the chatbot
+```bash
+python app.py
+
+
