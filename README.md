@@ -1,10 +1,10 @@
-# 🤖 Emotional Support Chatbot — Fine-tuned Mistral 7B using Unsloth
+#  Emotional Support Chatbot — Fine-tuned Mistral 7B using Unsloth
 
 This is an empathetic and conversational emotional support chatbot, fine-tuned on a therapy-focused dataset using the Mistral 7B language model and Unsloth. The goal of this project is to provide a safe, supportive, and emotionally aware AI companion for users experiencing distress or emotional overwhelm.
 
 ---
 
-## 🧠 Project Highlights
+##  Project Highlights
 
 - 🔹 Fine-tuned **Mistral 7B** using **LoRA** via **Unsloth**
 - 🔹 Trained on `vibhorag101/phr_mental_therapy_dataset` for empathetic response generation
@@ -14,15 +14,14 @@ This is an empathetic and conversational emotional support chatbot, fine-tuned o
 
 ---
 
-## 🚀 Live Demo & Hosting
+##  Live Demo & Hosting
 
 Due to Unsloth’s strict hardware requirement for NVIDIA or Intel GPUs, the Hugging Face Space demo cannot run on the free CPU-only tier.
 
-🔗 **Hugging Face Model Page:**  
-https://huggingface.co/your-username/model-name
 
-💻 **Local Demo Available:**  
-You can clone this repository and run the chatbot locally if you have GPU access.
+
+ **Local Demo Available:**  
+You can clone this repository and run the chatbot locally if you have GPU access. Or you can use colab or kaggle to run the repo.
 
 
 ---
